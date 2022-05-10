@@ -1,0 +1,11 @@
+body{
+    background-image: url("../img/fon1.jpg");
+}
+h1{
+    text-align: center;
+    color: blue;
+    font-size: 30px;
+}
+table{
+    background-color: white;
+}
